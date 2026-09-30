@@ -1,5 +1,5 @@
 # 9 月 30 日作业：用 Git 和 GitHub 完成一次项目协作练习
-
+w
 本次作业不考察复杂的编程内容。请通过实际操作，完成“获取项目 → 本地修改 → 提交版本 → 上传到自己的 GitHub”的过程。
 
 教师仓库：[inspirepassion/cv_homework_09_30](https://github.com/inspirepassion/cv_homework_09_30)
